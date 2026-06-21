@@ -3,9 +3,6 @@
 ## Overview
 Portfolio monitor
 
-## Why this project?
-This repository was created as sample project #23 with its own structure and documentation style.
-
 ## Features
 - Lightweight design
 - Easy to extend
